@@ -1,0 +1,61 @@
+body {
+  font-family: "Montserrat", sans-serif;
+
+  background: #f5f7fa;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  width: 1200px;
+  margin: 0 auto;
+  background: #ffffff;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+aside {
+  width: 370px;
+  background-color: rgb(44, 39, 39);
+}
+.cv-photo {
+  margin-top: 25px;
+}
+.header-secondary {
+  color: #ffffff;
+}
+.contact-links {
+  color: #ffffff;
+}
+.bold {
+  font-weight: 700;
+}
+.list-secondary {
+  color: chocolate;
+  font-size: 14px;
+  line-height: 24px;
+  margin-left: 0;
+  padding-left: 0;
+  list-style-position: inside;
+}
+.list-secondary-item {
+  color: #ffffff;
+}
+.contact-block {
+  margin-top: 51px;
+  margin-left: 40px;
+}
+.tech-Skills-block {
+  margin-top: 47px;
+  margin-left: 40px;
+}
+.soft-Skills-block {
+  height: 131px;
+  width: 113px;
+  left: 89px;
+  top: 843px;
+  border-radius: nullpx;
+}
+main {
+  padding-left: 88px;
+  padding-top: 102px;
+}
